@@ -1,7 +1,7 @@
 ## Hello , I'm Lama (✿ᴗ͈ˬᴗ͈)⁾⁾
 - I'm an Information Systems student at KKU <br/>
 - Programming is both a hobby and an important part of my studies <br/>
-- I learn a new programming language every month or so <br/>
+- I try to learn a new programming language every month or so <br/>
 - I like building small fun projects to practice and improve my coding skills
 
 
